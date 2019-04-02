@@ -8,10 +8,9 @@ typedef struct node{
 	int deep;
 }node;
 
-void init(node* str){
+inline void init(node* str){
 	for (int i = 0; i < 26; i++)
 		str->children[i] = NULL;
-	str->deep = 0;
 	return;
 }
 
@@ -35,6 +34,7 @@ int main(void)
 	string[0] = new node;
 	string[0] -> parent = string[0];
 	init(string[0]);
+	string[0]->deep = 0;
 	int parentindex;
 	char toappend;
 	for (int i = 1; i <= n; i++){
