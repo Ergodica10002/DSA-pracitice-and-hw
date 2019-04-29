@@ -1,0 +1,571 @@
+Alice
+S5 C4 H3 D2 C1 
+Bob
+S4 C5 S2 D5 H9 
+
+newturn:
+Alice plays S5
+Bob plays S4
+Alice plays C4
+Bob plays C5
+Alice plays C1
+Bob pass
+Alice plays H3
+Bob plays H9
+Alice pass
+Bob plays S2
+Alice plays D2
+Bob: D5 
+Bob: D5 
+Bob: D5 
+Bob: D5 
+Bob: D5 
+2089678198572319220 alice scredit: 5
+2089677099064361460 bob scredit: 5
+Bob plays D5
+Alice plays D2
+Bob: S2 
+Bob: S2 
+Bob: S2 
+Bob: S2 
+Bob: S2 
+2089677648808902911 alice scredit: 2
+2089677099064361215 bob scredit: 2
+2089676824195629556 bob scredit: 2
+1801446448017965556 alice scredit: 2
+Alice plays D2
+Bob plays S2
+Alice pass
+Bob plays D5
+Alice pass
+Bob plays H9
+Alice: H3 
+Alice: H3 
+Alice: H3 
+Alice: H3 
+Alice: H3 
+1945563285378169332 bob scredit: -3
+1945562735622355444 bob scredit: 2
+1945561636115446260 bob scredit: 2
+1801446448018094580 alice scredit: 2
+1729388853981348340 alice scredit: 2
+1729386654974607860 bob scredit: 2
+1152925902666990068 alice scredit: 2
+1152921504637518324 bob scredit: 2
+Bob plays C5
+Alice plays C4
+Bob plays S4
+Alice pass
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays H9
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+1873505691340112124 bob scredit: -3
+1873505141589016828 bob scredit: -3
+1729389953504772348 alice scredit: -3
+1729388853996814588 bob scredit: -3
+Bob plays D5
+Alice plays D2
+Bob plays S2
+Alice pass
+Bob plays H9
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+1873505691340112119 bob scredit: -3
+1873504591833202935 bob scredit: -3
+1729389403741356279 alice scredit: -3
+1729388853996814583 bob scredit: -3
+Bob plays H9
+memorized 1729388853996814583 -3
+Alice: H3 D2 C1 
+Bob: S2 D5 H9 
+lastcard pass a -250 b -3
+1729384455951352060 bob scredit: -3
+1152923703631413500 alice scredit: -3
+Alice plays C1
+Bob pass
+Alice plays C4
+Bob plays S4
+Alice pass
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays H9
+Alice: H3 
+Alice: H3 
+Alice: H3 
+Alice: H3 
+Alice: H3 
+1945563285378166524 bob scredit: -3
+1945562735627071228 bob scredit: -3
+1801447547542826748 alice scredit: -3
+1801446448034868988 bob scredit: -3
+1801442049989406460 bob scredit: -3
+1224981297668157180 alice scredit: -3
+Alice plays H3
+memorized 1224981297668157180 -3
+Alice: C4 H3 D2 
+Bob: S4 S2 D5 H9 
+lastcard pass a -3 b 2
+Alice plays D2
+memorized 1224981297668157180 -3
+Alice: C4 H3 D2 
+Bob: S4 S2 D5 H9 
+lastcard pass a -3 b 2
+1152923703631539964 alice scredit: -3
+1152921504637518076 bob scredit: -3
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays S4
+Alice plays C4
+Bob plays C5
+Alice plays C1
+Bob pass
+Alice plays H3
+Bob: H9 
+Bob: H9 
+Bob: H9 
+Bob: H9 
+Bob: H9 
+1945563285361262839 alice scredit: 9
+1873505691324645623 alice scredit: -3
+1873503492317905143 bob scredit: -3
+1297042740010287351 alice scredit: -3
+1297038341966921975 bob scredit: -3
+Bob plays C5
+memorized 1297038341966921975 -3
+Alice: C4 H3 C1 
+Bob: S4 C5 H9 
+lastcard pass a -250 b -3
+Bob plays H9
+memorized 1297038341966921975 -3
+Alice: C4 H3 C1 
+Bob: S4 C5 H9 
+lastcard pass a -250 b -3
+1297037792215826679 bob scredit: -3
+1152922604131582199 alice scredit: -3
+1152921504637518071 bob scredit: -3
+Bob plays D5
+memorized 1152921504637518071 -3
+Alice: C4 H3 D2 C1 
+Bob: S4 C5 S2 D5 H9 
+lastcard S5 a -250 b -3
+scredit = -3
+
+newturn:
+Alice plays C4
+Bob plays S4
+Alice plays S5
+Bob plays C5
+Alice plays C1
+Bob pass
+Alice plays H3
+Bob plays H9
+Alice pass
+Bob plays S2
+Alice plays D2
+Bob: D5 
+Bob: D5 
+Bob: D5 
+Bob: D5 
+Bob: D5 
+2089678198572445684 alice scredit: 5
+2089677099064487924 bob scredit: 5
+Bob plays D5
+Alice plays D2
+Bob: S2 
+Bob: S2 
+Bob: S2 
+Bob: S2 
+Bob: S2 
+2089677648809029375 alice scredit: 2
+2089677099064487679 bob scredit: 2
+2089676824195756020 bob scredit: 2
+1801446448018092020 alice scredit: 2
+Alice plays D2
+memorized 1801446448018094580 2
+Alice: H3 D2 
+Bob: S2 D5 H9 
+lastcard pass a 2 b 250
+1729388853981474804 alice scredit: 2
+1729386654987579380 bob scredit: 2
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays C5
+Alice plays C1
+Bob pass
+Alice plays H3
+Bob: H9 
+Bob: H9 
+Bob: H9 
+Bob: H9 
+Bob: H9 
+1945563285361389308 alice scredit: 9
+1873505691324772092 alice scredit: 2
+1873503492316983036 bob scredit: 2
+Bob plays H9
+memorized 1873503492316983036 2
+Alice: H3 C1 
+Bob: C5 H9 
+lastcard pass a -3 b 2
+1873502942565887740 bob scredit: 2
+1729387754481643260 alice scredit: 2
+1729386654987579132 bob scredit: 2
+Bob plays D5
+memorized 1729386654987579132 2
+Alice: H3 D2 C1 
+Bob: C5 S2 D5 H9 
+lastcard S5 a -3 b 2
+576465150363693044 alice scredit: 2
+576460752321376244 bob scredit: 2
+Bob plays C5
+Alice plays S5
+Bob plays S4
+Alice pass
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays H9
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+1873505691340238588 bob scredit: -3
+1873505141589143292 bob scredit: -3
+1729389953504898812 alice scredit: -3
+1729388853996941052 bob scredit: -3
+1729384455964323580 bob scredit: -3
+576462951328116476 alice scredit: -3
+Alice plays C1
+memorized 576462951328116476 -3
+Alice: S5 H3 D2 C1 
+Bob: S4 S2 D5 H9 
+lastcard C5 a -3 b 2
+576460752321375996 bob scredit: -3
+scredit = -3
+
+newturn:
+Alice plays H3
+Bob plays H9
+Alice pass
+Bob plays S4
+Alice plays S5
+Bob plays C5
+Alice plays C4
+Bob pass
+Alice plays D2
+Bob plays S2
+Alice pass
+Bob plays D5
+Alice: C1 
+Alice: C1 
+Alice: C1 
+Alice: C1 
+Alice: C1 
+2161735792614043636 bob scredit: 0
+2161734693107134452 bob scredit: 0
+Bob plays D5
+Alice pass
+Bob plays S2
+Alice: C1 
+Alice: C1 
+Alice: C1 
+Alice: C1 
+Alice: C1 
+2161735242858229498 bob scredit: 0
+2161734693107134202 bob scredit: 0
+2017619505009782772 alice scredit: 0
+Alice plays C1
+Bob pass
+Alice plays D2
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+2089677099047712244 alice scredit: 7
+2017619505009784308 alice scredit: 7
+1441158752707670004 alice scredit: 7
+Alice plays C1
+Bob pass
+Alice plays C4
+Bob pass
+Alice plays D2
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+Bob: S2 D5 
+2089677099047715828 alice scredit: 7
+1513216346744292340 alice scredit: 7
+Alice plays D2
+memorized 1513216346744292340 7
+Alice: C4 D2 
+Bob: S2 D5 
+lastcard pass a 7 b 250
+1441158752707675124 alice scredit: 7
+1441156553713774580 bob scredit: 7
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays C5
+Alice: C4 C1 
+Alice: C4 C1 
+Alice: C4 C1 
+Alice: C4 C1 
+Alice: C4 C1 
+1585273391043178241 bob scredit: -4
+1585272841292082945 bob scredit: -3
+1441157653207838465 alice scredit: -3
+1441156553713774337 bob scredit: -3
+288235049089888244 alice scredit: -3
+Alice plays C4
+memorized 288235049089888244 -3
+Alice: S5 C4 D2 C1 
+Bob: C5 S2 D5 
+lastcard S4 a -3 b 250
+288230651046522868 bob scredit: -3
+288230376177790964 bob scredit: -3
+scredit = -3
+
+newturn:
+Alice plays D2
+Bob plays S2
+Alice plays S5
+Bob plays S4
+Alice plays C4
+Bob plays C5
+Alice plays C1
+Bob pass
+Alice plays H3
+Bob: D5 H9 
+Bob: D5 H9 
+Bob: D5 H9 
+Bob: D5 H9 
+Bob: D5 H9 
+1945562735605575668 alice scredit: 14
+1873505141568958452 alice scredit: 14
+1873502942562217972 bob scredit: 14
+1297042190254600180 alice scredit: 14
+1297037792225128436 bob scredit: 14
+Bob plays C5
+Alice plays C4
+Bob plays S4
+Alice pass
+Bob plays D5
+Alice pass
+Bob plays H9
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+Alice: H3 C1 
+1873505691340238600 bob scredit: -3
+1873505141584424712 bob scredit: -3
+1873500743538962184 bob scredit: -3
+1297039991219023624 alice scredit: -3
+Alice plays C1
+memorized 1297039991219023624 -3
+Alice: C4 H3 C1 
+Bob: S4 D5 H9 
+lastcard C5 a -3 b 14
+1297037792225128200 bob scredit: -3
+144116287600717812 alice scredit: -3
+144115188097478644 bob scredit: -3
+scredit = -3
+
+newturn:
+Alice plays C1
+Bob plays C5
+Alice plays S5
+Bob plays S4
+Alice plays C4
+Bob pass
+Alice plays H3
+memorized 1801446448018092020 2
+Alice: H3 D2 
+Bob: S2 D5 H9 
+lastcard pass a -3 b 250
+Alice plays D2
+memorized 1801446448018094580 2
+Alice: H3 D2 
+Bob: S2 D5 H9 
+lastcard pass a 2 b 250
+1224985695728300020 alice scredit: 2
+1224981297698828276 bob scredit: 2
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays S4
+Alice plays C4
+Bob pass
+Alice plays H3
+memorized 1945563285361389308 9
+Alice: H3 
+Bob: H9 
+lastcard pass a -3 b 2
+1369102533071597308 alice scredit: 2
+1369098135028231932 bob scredit: 2
+Bob plays H9
+memorized 1369098135028231932 2
+Alice: C4 H3 
+Bob: S4 H9 
+lastcard pass a -3 b 2
+1369097585277136636 bob scredit: 2
+1224982397192892156 alice scredit: 2
+1224981297698828028 bob scredit: 2
+Bob plays D5
+memorized 1224981297698828028 2
+Alice: C4 H3 D2 
+Bob: S4 S2 D5 H9 
+lastcard S5 a -3 b 2
+72059793062621172 alice scredit: 2
+Alice plays C4
+Bob plays S4
+Alice plays S5
+Bob plays S2
+Alice plays D2
+Bob plays D5
+Alice pass
+Bob plays H9
+memorized 1945563285378169332 -3
+Alice: H3 
+Bob: H9 
+lastcard pass a 2 b 250
+1945562735627074036 bob scredit: 2
+1801447547542829556 alice scredit: 2
+1801446448048765428 bob scredit: 2
+648524943424879092 alice scredit: 2
+648520545382562292 bob scredit: 2
+72059793062623732 alice scredit: 2
+72057594054832116 bob scredit: 2
+scredit = 2
+Alice
+2
+72057594054832116 2
+72059793062621172 2
+72059793062623732 2
+144115188097478644 -3
+144116287600717812 -3
+288230376177790964 -3
+288230651046522868 -3
+288235049089888244 -3
+576460752321375996 -3
+576460752321376244 2
+576462951328116476 -3
+576465150363693044 2
+648520545382562292 2
+648524943424879092 2
+1152921504637518071 -3
+1152921504637518076 -3
+1152921504637518324 2
+1152922604131582199 -3
+1152923703631413500 -3
+1152923703631539964 -3
+1152925902666990068 2
+1224981297668157180 -3
+1224981297698828028 2
+1224981297698828276 2
+1224982397192892156 2
+1224985695728300020 2
+1297037792215826679 -3
+1297037792225128200 -3
+1297037792225128436 14
+1297038341966921975 -3
+1297039991219023624 -3
+1297042190254600180 14
+1297042740010287351 -3
+1369097585277136636 2
+1369098135028231932 2
+1369102533071597308 2
+1441156553713774337 -3
+1441156553713774580 7
+1441157653207838465 -3
+1441158752707670004 7
+1441158752707675124 7
+1513216346744292340 7
+1585272841292082945 -3
+1585273391043178241 -4
+1729384455951352060 -3
+1729384455964323580 -3
+1729386654974607860 2
+1729386654987579132 2
+1729386654987579380 2
+1729387754481643260 2
+1729388853981348340 2
+1729388853981474804 2
+1729388853996814583 -3
+1729388853996814588 -3
+1729388853996941052 -3
+1729389403741356279 -3
+1729389953504772348 -3
+1729389953504898812 -3
+1801442049989406460 -3
+1801446448017965556 2
+1801446448018092020 2
+1801446448018094580 2
+1801446448034868988 -3
+1801446448048765428 2
+1801447547542826748 -3
+1801447547542829556 2
+1873500743538962184 -3
+1873502942562217972 14
+1873502942565887740 2
+1873503492316983036 2
+1873503492317905143 -3
+1873504591833202935 -3
+1873505141568958452 14
+1873505141584424712 -3
+1873505141589016828 -3
+1873505141589143292 -3
+1873505691324645623 -3
+1873505691324772092 2
+1873505691340112119 -3
+1873505691340112124 -3
+1873505691340238588 -3
+1873505691340238600 -3
+1945561636115446260 2
+1945562735605575668 14
+1945562735622355444 2
+1945562735627071228 -3
+1945562735627074036 2
+1945563285361262839 9
+1945563285361389308 9
+1945563285378166524 -3
+1945563285378169332 -3
+2017619505009782772 0
+2017619505009784308 7
+2089676824195629556 2
+2089676824195756020 2
+2089677099047712244 7
+2089677099047715828 7
+2089677099064361215 2
+2089677099064361460 5
+2089677099064487679 2
+2089677099064487924 5
+2089677648808902911 2
+2089677648809029375 2
+2089678198572319220 5
+2089678198572445684 5
+2161734693107134202 0
+2161734693107134452 0
+2161735242858229498 0
+2161735792614043636 0
