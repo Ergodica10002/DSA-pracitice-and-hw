@@ -7,10 +7,10 @@
 #define NDEBUG
 using namespace std;
 
-int hashtable1[MAXLEN] = {0};
-int hashtable2[MAXLEN] = {0};
-int modtable1[MAXLEN] = {0};
-int modtable2[MAXLEN] = {0};
+unsigned long long hashtable1[MAXLEN] = {0};
+unsigned long long hashtable2[MAXLEN] = {0};
+unsigned long long modtable1[MAXLEN] = {0};
+unsigned long long modtable2[MAXLEN] = {0};
 void fillmod1(int tomod, int len){
 	modtable1[0] = 1;
 	for (int i = 1; i < len; i++){
@@ -26,7 +26,7 @@ void fillmod2(int tomod, int len){
 	return;
 }
 void filltable1(string s, int mod){
-	int hashnum = 0;
+	unsigned long long hashnum = 0;
 	for (int i = 0; s[i] != '\0'; i++){
 		hashnum = hashnum * mod + (s[i] - 'a');
 		hashtable1[i + 1] = hashnum;
@@ -34,7 +34,7 @@ void filltable1(string s, int mod){
 	return;
 }
 void filltable2(string s, int mod){
-	int hashnum = 0;
+	unsigned long long hashnum = 0;
 	for (int i = 0; s[i] != '\0'; i++){
 		hashnum = hashnum * mod + (s[i] - 'a');
 		hashtable2[i + 1] = hashnum;
@@ -64,10 +64,10 @@ int main(void)
 		int lowbound = 1, upbound = slen + 1;
 		int mid = (lowbound + upbound) / 2;
 		while(upbound - lowbound >= 1){
-			map<int, int> count;
-			map<int, int>::iterator it;
+			map<unsigned long long, int> count;
+			map<unsigned long long, int>::iterator it;
 			for (int j = mid; j <= slen; j++){
-				int hr1 = hashtable1[j] - hashtable1[j - mid] * modtable1[mid];
+				unsigned long long hr1 = hashtable1[j] - hashtable1[j - mid] * modtable1[mid];
 				if ((it = count.find(hr1)) != count.end()){
 					it->second++;
 					if (it->second >= m){
@@ -122,8 +122,8 @@ int main(void)
 				mid = (lowbound + upbound) / 2;
 				while (upbound - lowbound >= 1){
 					for (int j = 1; j + possible[mid] < slen; j++){
-						int hr1 = hashtable1[j + possible[mid]] - hashtable1[j] * modtable1[possible[mid]];
-						int hr2 = hashtable2[j + possible[mid]] - hashtable2[j] * modtable2[possible[mid]];
+						unsigned long long hr1 = hashtable1[j + possible[mid]] - hashtable1[j] * modtable1[possible[mid]];
+						unsigned long long hr2 = hashtable2[j + possible[mid]] - hashtable2[j] * modtable2[possible[mid]];
 						if ((hr1 == hashtable1[possible[mid]]) && (hr2 == hashtable2[possible[mid]])){
 							result[0] = possible[mid];
 							answer_find = 1;
